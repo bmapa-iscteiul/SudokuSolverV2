@@ -6,7 +6,7 @@ The generation of the sudokus is accomplished with the API https://sugoku.heroku
 A backtracking algorithm was used to solve the sudokus.
 
 #How to run
- - Run the SudokuSolver.py with python 3.7 or newer.
+ - Run the GUI.py with python 3.7 or newer.
  
 To run the solver, just press the 's' key.
 
