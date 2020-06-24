@@ -7,6 +7,8 @@ A backtracking algorithm was used to solve the sudokus.
 
 #How to run
  - Run the SudokuSolver.py with python 3.7 or newer.
+ 
+To run the solver, just press the 's' key.
 
 
 Made by Bruno Pereira.
